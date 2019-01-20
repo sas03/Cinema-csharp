@@ -1,0 +1,12 @@
+D:\C#\CynovB\CynovB\bin\Debug\CynovB.exe.config
+D:\C#\CynovB\CynovB\bin\Debug\CynovB.exe
+D:\C#\CynovB\CynovB\bin\Debug\CynovB.pdb
+D:\C#\CynovB\CynovB\bin\Debug\EntityFramework.dll
+D:\C#\CynovB\CynovB\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\CynovB\CynovB\bin\Debug\EntityFramework.xml
+D:\C#\CynovB\CynovB\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\CynovB\CynovB\obj\Debug\CynovB.csprojAssemblyReference.cache
+D:\C#\CynovB\CynovB\obj\Debug\CynovB.csproj.CoreCompileInputs.cache
+D:\C#\CynovB\CynovB\obj\Debug\CynovB.csproj.CopyComplete
+D:\C#\CynovB\CynovB\obj\Debug\CynovB.exe
+D:\C#\CynovB\CynovB\obj\Debug\CynovB.pdb
